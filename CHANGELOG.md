@@ -1,3 +1,5 @@
+# Present Version
+Fork from Opensage and fixed export animation problems with Deepseek AI
 # Version History
 
 ## v0.7.4
