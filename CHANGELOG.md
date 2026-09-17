@@ -1,5 +1,8 @@
 # Present Version
 
+## hotfix 1
+* fixed float errors during animation export,didn't change the version number
+
 ## v1.0.0
 * Fork from Opensage and fixed export animation problems with Deepseek AI
 
